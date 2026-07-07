@@ -22,7 +22,7 @@ Currently an **MSc Computer Science student at Paris Lodron University of Salzbu
 
 - 🎓 MSc Computer science, PLUS Salzburg, 2025–2027
 - 🔭 Currently building an ML foundation: classical ML → feature engineering → model serving with FastAPI → Docker/MLOps
-- 🌍 Open to internships / working student roles in Austria & the DACH region
+- 🌍 Open to internships / working student roles / Remote full-time in Austria & the rest
 - 📫 yaikobzeray@gmail.com · [yaikob.tech](https://yaikob.tech)
 
 ---
