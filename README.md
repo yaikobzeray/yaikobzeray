@@ -20,7 +20,7 @@ Software engineer with 3 years shipping production apps to the Google Play Store
 
 Currently an **MSc Computer Science student at Paris Lodron University of Salzburg**, focused on Data Mining & ML Engineering — combining production engineering discipline with applied ML.
 
-- 🎓 MSc CS (Data Mining & ML Engineering), PLUS Salzburg, 2025–2027
+- 🎓 MSc Computer science, PLUS Salzburg, 2025–2027
 - 🔭 Currently building an ML foundation: classical ML → feature engineering → model serving with FastAPI → Docker/MLOps
 - 🌍 Open to internships / working student roles in Austria & the DACH region
 - 📫 yaikobzeray@gmail.com · [yaikob.tech](https://yaikob.tech)
